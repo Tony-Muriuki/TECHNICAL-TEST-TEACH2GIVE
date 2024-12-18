@@ -32,3 +32,7 @@ What You’ll Deliver:
 1. Code: A working FAQ accordion using:
    ○ HTML for structure.
    ○ CSS for design and functionality.
+
+### Challenge
+
+Having completed the technical test, i experienced a challenge with solution 2 as i couldn't understand whether we are suposed to achieve the same accordion in the picture or try build a replica.
